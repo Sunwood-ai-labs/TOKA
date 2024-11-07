@@ -1,236 +1,131 @@
----
-title: HarmonAI III
-emoji: 🦀
-colorFrom: green
-colorTo: blue
-sdk: streamlit
-sdk_version: 1.39.0
-app_file: app.py
-pinned: false
-license: mit
----
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sunwood-ai-labs/HarmonAI_III/refs/heads/main/docs/HarmonAI-III.png" width="100%">
-  <h1 align="center">🌟 HarmonAI III 🌟</h1>
-</p>
-<p align="center">
-  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III">
-    <img alt="GitHub Repo" src="https://img.shields.io/badge/github-HarmonAI__III-blue?logo=github">
-  </a>
-  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/blob/main/LICENSE">
-    <img alt="License" src="https://img.shields.io/github/license/Sunwood-ai-labs/HarmonAI_III?color=green">
-  </a>
-  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Sunwood-ai-labs/HarmonAI_III?style=social">
-  </a>
-  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/releases">
-    <img alt="GitHub release" src="https://img.shields.io/github/v/release/Sunwood-ai-labs/HarmonAI_III?include_prereleases&style=flat-square">
-  </a>
-  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/issues">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/Sunwood-ai-labs/HarmonAI_III">
-  </a>
-  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/pulls">
-    <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
-  </a>
-  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/network/members">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/Sunwood-ai-labs/HarmonAI_III?style=social">
-  </a>
-  <a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/watchers">
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Sunwood-ai-labs/HarmonAI_III?style=social">
-  </a>
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sunwood-ai-labs/HarmonAI_III">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Sunwood-ai-labs/HarmonAI_III">
-</p>
-<h2 align="center">
-  ～ AI-Powered Automated Repository Management Template ～
+<div align="center">
 
-<a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/blob/main/README.md"><img src="https://img.shields.io/badge/ドキュメント-日本語-white.svg" alt="JA doc"/></a>
-<a href="https://github.com/Sunwood-ai-labs/HarmonAI_III/blob/main/docs/README.en.md"><img src="https://img.shields.io/badge/english-document-white.svg" alt="EN doc"></a>
-</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google" alt="Google Gemini">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
-  <img src="https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=github-actions" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml" alt="YAML">
-  <img src="https://img.shields.io/badge/pip-3775A9?style=for-the-badge&logo=pypi" alt="pip">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown" alt="Markdown">
-  <img src="https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge&logo=github" alt="GitHub API">
-</p>
-<p align="center">
-  <a href="https://github.com/Sunwood-ai-labs/AIRA">
-    <img src="https://img.shields.io/badge/AIRA-FF4500?style=for-the-badge&logo=github" alt="AIRA">
-  </a>
-  <a href="https://github.com/Sunwood-ai-labs/IRIS">
-    <img src="https://img.shields.io/badge/IRIS-9370DB?style=for-the-badge&logo=github" alt="IRIS">
-  </a>
-</p>
+![TOKA Logo](docs/toka.png)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Status: In Development](https://img.shields.io/badge/Status-In%20Development-yellow)](https://github.com/yourusername/toka)
+[![Built with Python](https://img.shields.io/badge/Python-3.9+-blue.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)](https://openai.com/)
+[![Claude](https://img.shields.io/badge/Claude-202123?style=for-the-badge)](https://anthropic.com/)
+[![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google)](https://deepmind.google/technologies/gemini/)
+
+## TOKA: Technical Organization & Knowledge Accumulator
 
 
-> [!IMPORTANT]
->  HarmonAI IIIは、[cline (旧:Claude Dev)](https://github.com/clinebot/cline), [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage), [claude.ai](https://claude.ai/)を活用して開発されたテンプレートリポジトリです。リリースノート、README、コミットメッセージの大部分は、最新のAI技術を用いて生成されています。
+*冬の花が咲くように、技術知識を育む*
 
-## 🚀 プロジェクト概要
+> [!NOTE]
+> 🚧 このプロジェクトは現在開発中です。以下の内容は開発予定の機能とロードマップを示しています。
 
-HarmonAI IIIは、AIRAとIRISを統合した革新的な**AIリポジトリスターターキット**です。このリポジトリは、LLMを活用したAI開発プロジェクトの構造とワークフローを提供し、開発者の作業効率を劇的に向上させることを目的としています。バージョン: `v1.3.0`
+</div>
 
+## 🌸 概要
 
-## 🆕 最新情報
+TOKAは、技術論文やリポジトリの自動解析・環境構築を行うAIシステムの開発プロジェクトです。[CaL（Comprehend and Learn）](https://github.com/datawhalechina/phidata)の概念を基に、以下の機能の実装を目指しています：
 
-- 🎉 **v1.3.0リリース**: Streamlitアプリの基本構造作成、READMEファイルのデザイン改善、いくつかのバグ修正、およびドキュメントの更新を行いました。  StreamlitアプリではREADME.mdファイルを読み込んで表示する機能を実装しました。  README.mdファイルが存在しない場合のエラー処理も追加されています。  さらに、GitHubリポジトリへのコラボレーター追加スクリプト、Hugging Face Hubへの自動同期ワークフロー、PyPIへの自動デプロイワークフローを追加しました。
+- 📚 技術論文とリポジトリの包括的な解析
+- 🔄 実装可能なドキュメントの自動生成
+- 🐳 Docker環境の自動構築と設定
 
+## 🎯 開発ロードマップ
 
-## ✨ 主な機能
+### Phase 1: 基盤開発 (進行中)
+- [ ] プロジェクト構造の設計
+- [ ] 基本的なAPI連携の実装
+- [ ] ドキュメント解析エンジンの設計
 
-1. **統合AIツールセット**: AIRAとIRISの機能を1つのパッケージで提供
-2. **即時利用可能**: テンプレートとして使用することで、高品質な初期構造を持つリポジトリを簡単に作成
-3. **自動化された開発ワークフロー**: コミットメッセージ生成、リリースノート作成、イシュー管理の自動化
-4. **多言語サポート**: READMEの自動翻訳機能により、国際的なプロジェクト展開をサポート
-5. **柔軟なカスタマイズ**: プロジェクトのニーズに合わせて容易に調整可能
-6. **コラボレーター自動招待**: GitHub APIを利用したコラボレーター招待スクリプト
-7. **Streamlitアプリ**: README.mdファイルを表示する基本的なStreamlitアプリケーション
+### Phase 2: コア機能実装 (予定)
+- [ ] 論文PDF解析機能
+- [ ] リポジトリ構造分析機能
+- [ ] Docker設定生成機能
 
+### Phase 3: 自動化と最適化 (予定)
+- [ ] 環境構築の自動化
+- [ ] パフォーマンスの最適化
+- [ ] エラーハンドリングの強化
 
-## 🔧 使用方法
+## 🌟 実装予定の主要機能
 
-### Streamlitアプリの実行
-1. `pip install -r requirements.txt` で必要なパッケージをインストールします。
-2. `streamlit run app.py` を実行します。
+### 文献解析基盤
+- 論文PDFの自動解析と要約
+- 実装に必要な技術要素の抽出
+- 引用関係の可視化と関連研究の特定
 
-### AIRAの使用例：
-```bash
-aira --mode sourcesage commit  --config=.aira\config.dev.commit.yml --ss-model-name="gpt-4o-mini" --llm-output="llm_output.md"
-```
+### リポジトリ分析エンジン
+- コードベースの構造解析
+- 依存関係の自動マッピング
+- 実装パターンの識別と分類
 
-### IRISの使用例：
+### 環境構築自動化
+- Docker-compose設定の生成
+- 開発環境の自動構築
+- デプロイメントドキュメントの作成
 
-詳細な使用方法については、各コンポーネントのドキュメンテーションを参照してください。
+## 🚀 開発参加方法
 
+現在、以下の形での開発参加を募集しています：
 
-## 📦 インストール手順
+1. アイデアの提案
+2. 仕様についてのディスカッション
+3. 実装予定機能へのフィードバック
 
-1. このリポジトリをテンプレートとして使用し、新しいリポジトリを作成します。
-2. リポジトリをローカルにクローンします。
-3. 必要な依存関係をインストールします：
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. AIRAとIRISの設定ファイルをカスタマイズします。
-5. GitHub Actionsの設定を確認し、必要に応じて環境変数を設定します。
-6. `.github/release_notes/.sourcesage_releasenotes_iris.yml`ファイルを開き、`repo-name:`の値を新しいリポジトリ名に修正します。
+### 開発への参加手順
 
+1. このリポジトリをWatchまたはStar
+2. [Discussions](https://github.com/yourusername/toka/discussions)で意見や提案を共有
+3. [Issues](https://github.com/yourusername/toka/issues)で具体的な機能要望や改善案を提示
 
-## 🌿 環境構築
+## 📋 予定している技術スタック
 
-HarmonAI IIIの環境を構築するには、以下の手順に従ってください：
+- **フロントエンド**: (検討中)
+  - 候補: Streamlit, Gradio
 
-1. 仮想環境を作成します：
-   ```bash
-   python3 -m venv .venv
-   ```
-   これにより、`.venv`ディレクトリに仮想環境が作成されます。
+- **バックエンド**
+  - Python 3.9+
+  - FastAPI (予定)
 
-2. 仮想環境をアクティベートします：
-   ```bash
-   source .venv/bin/activate  # Linux/macOS
-   .venv\Scripts\activate  # Windows
-   ```
+- **AI/ML**
+  - OpenAI API
+  - Claude API
+  - Gemini API
 
-3. 依存関係をインストールします：
-   ```bash
-   pip install -r requirements.txt
-   ```
+- **インフラ**
+  - Docker
+  - Docker Compose
 
-これらの手順により、HarmonAI IIIの開発環境が整います。
-
-
-## 📚 主要コンポーネント
-
-### 🤖 [AIRA (AI-Integrated Repository for Accelerated Development)](https://github.com/Sunwood-ai-labs/AIRA)
-- リポジトリ作成の自動化
-- コミットメッセージの自動生成
-
-### 🌈 [IRIS (Intelligent Repository Issue Solver)](https://github.com/Sunwood-ai-labs/IRIS)
-- イシューの自動分類
-- 解決策の自動提案
-- リリースノートの自動生成
-- READMEの自動翻訳
-
-## 🤝 コラボレーターの自動招待
-
-HarmonAI IIIには、GitHubリポジトリにコラボレーターを自動で招待するスクリプトが含まれています。以下の手順で使用できます：
-
-1. `.env` ファイルを作成し、必要なトークンを設定します：
-   ```
-   # GitHubアクセストークン（コラボレーター招待用）
-   GITHUB_TOKEN=your_github_personal_access_token_here
-
-   # 以下は他の機能で使用する可能性のあるトークンの例です。記載しておくと後々便利です。
-   # GITHUB_ACCESS_TOKEN=ghp_xxxxx
-   # YOUR_PERSONAL_ACCESS_TOKEN_IRIS=ghp_yyyyy
-   # GEMINI_API_KEY=AIzzzzz
-   ```
-
-   注意: `.env` ファイルは `.gitignore` に含めて、リポジトリにコミットしないようにしてください。
-
-2. 以下のコマンドを実行してコラボレーターを招待します：
-   ```bash
-   python .github/github_add_collaborator.py Sunwood-ai-labs/HarmonAI_III username_to_invite
-   ```
-
-   `username_to_invite` は招待したいGitHubユーザー名に置き換えてください。
-
-3. スクリプトが正常に実行されると、指定したユーザーにコラボレーター招待が送信されます。
-
-注意事項：
-- このスクリプトを使用するには、GitHubトークンに適切な権限（`repo` スコープ）が必要です。
-- 組織のリポジトリに対して使用する場合は、組織の設定で適切な権限が付与されていることを確認してください。
-- セキュリティのため、トークンは定期的に更新し、必要最小限の権限のみを付与するようにしてください。
-- `.env` ファイルやトークンを含む情報は、決して公開リポジトリにコミットしないでください。
-
-この機能により、プロジェクトへの新しいコントリビューターの追加プロセスが簡素化されます。セキュリティを維持しながら、効率的にチームを拡大することができます。
-
-## 🐈 処理フロー
-
+## 🔄 想定している処理フロー
 
 ```mermaid
-%%{init:{'theme':'base','themeVariables':{'primaryColor':'#024959','primaryTextColor':'#F2C335','primaryBorderColor':'#F2AE30','lineColor':'#A1A2A6','secondaryColor':'#593E25','tertiaryColor':'#F2C335','noteTextColor':'#024959','noteBkgColor':'#F2C335','textColor':'#024959','fontSize':'18px'}}}%%
+graph TD
+    A[入力: 論文/リポジトリ] --> B[解析エンジン]
+    B --> C[知識抽出]
+    C --> D[Docker環境生成]
+    D --> E[ドキュメント作成]
+    E --> F[出力: 実装可能な環境]
 
-graph LR
-    A[開始] --> B[リポジトリの構想とネーミング]
-    B -->|人間が実施| C[HarmonAI IIIによる<br>リポジトリ初期化]
-    C -->|自動化| D[開発作業]
-    D -->|人間が実施| E[AIRAによる<br>コミット自動化]
-    E --> H[IRISによる<br>リリースノート作成]
-    H --> I[IRISによる<br>ドキュメント翻訳]
-    I --> J[リリース]
-    J --> K[終了]
-
-    class B,D,G human;
-    class E aira;
-    class F,H,I iris;
-    class C auto;
-    class A,J,K process;
-
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style F fill:#9ff,stroke:#333,stroke-width:2px
 ```
 
+## 🎋 名前の由来
 
+「TOKA」（冬花）は、厳冬に咲く花を意味します。技術的な複雑さの中から、明確な実装と理解を導き出すという私たちの目指す方向性を象徴しています。
 
-## 🤝 コントリビューション
+## 📮 コンタクト
 
-HarmonAI IIIは、オープンソースプロジェクトとしてコミュニティからの貢献を歓迎しています。バグ報告、機能リクエスト、プルリクエストを通じて、このテンプレートリポジトリの改善にご協力ください。
+現在の開発段階で質問やフィードバックがありましたら、以下の方法でご連絡ください：
 
-## 📄 ライセンス
+- [GitHub Issues](https://github.com/yourusername/toka/issues): バグ報告や機能要望
+- [GitHub Discussions](https://github.com/yourusername/toka/discussions): 一般的な質問や議論
+- [プロジェクトWiki](https://github.com/yourusername/toka/wiki): 開発ドキュメント（準備中）
 
-HarmonAI IIIは、[MITライセンス](LICENSE)の下で公開されています。
+## 📜 ライセンス
 
-## 🙏 謝辞
-
-HarmonAI IIIの開発にあたり、多くのオープンソースプロジェクトからインスピレーションを得ています。特に、AIRAとIRISの開発者の皆様に深く感謝申し上げます。iris-s-coon、Maki様にも感謝いたします。
+本プロジェクトは[MITライセンス](LICENSE)の下で開発を予定しています。
 
 ---
 
-HarmonAI IIIは、AI駆動の開発プロセスを実現する優れたスターターキットです。このテンプレートを基に、革新的なAIプロジェクトの開発を始めましょう！
+<div align="center">
+<i>TOKA - 技術知識を照らし導く</i>
+</div>
